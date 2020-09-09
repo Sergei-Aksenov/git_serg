@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2020-09-09T06:20:48.754Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 OPR/70.0.3728.154 (Edition Yx)" version="13.6.9" etag="70IbsS3xH81ywW_1ajBc" type="github"><diagram id="5JrWYwAvpfn6OSXDjhd1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-09T06:51:24.748Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 OPR/70.0.3728.154 (Edition Yx)" etag="dWNJvCKDx2LSILyUQ1Bf" version="13.6.9" type="github">
+  <diagram id="5JrWYwAvpfn6OSXDjhd1" name="Page-1">
+    <mxGraphModel dx="740" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="afcc1RLAJSfUA6Hr3kly-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-1" value="Солнце&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="339" y="1" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-4" value="передача энергии&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="afcc1RLAJSfUA6Hr3kly-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-7" value="лист(принимает энергию)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="339" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="afcc1RLAJSfUA6Hr3kly-10" target="afcc1RLAJSfUA6Hr3kly-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-10" value="Хлоропласты" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-11" value="&lt;span&gt;Световая фаза( для протекания нужен свет(энегрия)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="459" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="afcc1RLAJSfUA6Hr3kly-12" target="afcc1RLAJSfUA6Hr3kly-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-12" value="&lt;span&gt;Теневая фаза( для протекания не нужен свет(энергия)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="afcc1RLAJSfUA6Hr3kly-14" target="afcc1RLAJSfUA6Hr3kly-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="afcc1RLAJSfUA6Hr3kly-14" target="afcc1RLAJSfUA6Hr3kly-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-14" value="Тилакоиды(Преобразует энергию света в клеточную энергию)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="317" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-19" value="Энергия АТФ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="414" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-20" value="Кислород&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="579" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="afcc1RLAJSfUA6Hr3kly-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-23" value="Хлоропласты" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-25" value="Углекислый газ&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="170" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="afcc1RLAJSfUA6Hr3kly-27" value="Строма&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
